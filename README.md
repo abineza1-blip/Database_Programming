@@ -433,7 +433,8 @@ By the end of this project students should be able to:
 
 ---
 
-# Author
+# Author:
+## Dr. ABINEZA Claudia
 
 Educational project for learning:
 
